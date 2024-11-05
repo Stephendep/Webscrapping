@@ -77,5 +77,6 @@ The script saves data in `product_data.json` in the following format:
 ## Notes
 - **ChromeDriver Version**: Ensure ChromeDriver matches your Chrome browser version.
 - **Error Handling**: The script includes basic error handling to skip over products that fail to load or extract data.
+- Pop up login timed out the script from webscrapping all datas. which i will still work on
   
 ---
